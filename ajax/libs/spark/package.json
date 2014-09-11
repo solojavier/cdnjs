@@ -34,5 +34,12 @@
   },
   "browser": {
     "request": "browser-request"
-  }
+  },
+  "npmName": "spark",
+  "npmFileMap": [{
+    "basePath": "/dist/",
+    "files": [
+      "*.js"
+    ]
+  }]
 }
