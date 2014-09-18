@@ -2,7 +2,7 @@
   "author": "Spark",
   "name": "spark",
   "description": "Official Spark API library.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "http://spark.io",
   "bugs": "https://github.com/spark/sparkjs/issues",
   "filename": "spark.min.js",
